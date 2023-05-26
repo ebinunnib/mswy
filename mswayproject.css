@@ -1,5 +1,5 @@
 body{
-background-image: url(./images/100\ Beautiful\ Ultra\ HD\ 4K\ Wallpapers\ Pack-51\ \(45\).jpg);
+background-image: url(./images/100\ Beautiful\ Ultra\ HD\ 4K\ Wallpapers\ Pack-1\ \(99\).jpg);
 background-size: contain;
 }
 #button1{
@@ -7,10 +7,14 @@ background-size: contain;
  color: crimson;
 }
 .mainname1{
-    font-size: xx-large;
+    font-size: 30px;
     font-style: normal;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: rgb(151, 215, 218);
-
+color: rgb(7, 49, 51);
 
 }
+.WELLCOME1{
+    color: chartreuse;
+
+}
+
