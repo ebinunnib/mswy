@@ -1,0 +1,16 @@
+body{
+background-image: url(./images/100\ Beautiful\ Ultra\ HD\ 4K\ Wallpapers\ Pack-51\ \(45\).jpg);
+background-size: contain;
+}
+#button1{
+    background-color: chartreuse;
+ color: crimson;
+}
+.mainname1{
+    font-size: xx-large;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(151, 215, 218);
+
+
+}
